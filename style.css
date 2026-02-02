@@ -63,6 +63,12 @@ body {
     /* Slight rounding but keeping it technical */
 }
 
+.logo {
+    max-width: 200px;
+    height: auto;
+    margin-bottom: 2rem;
+}
+
 /* Typography */
 h1 {
     font-family: var(--text-font);
